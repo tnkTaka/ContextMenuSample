@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">コンテキストメニューサンプル</string>
+    <string name="menu_context_up">ポイント加算</string>
+    <string name="menu_context_down">ポイント減算</string>
+</resources>
